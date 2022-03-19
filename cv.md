@@ -14,3 +14,4 @@ let getData = function (array) {
 
 getData(arr);
 ```
+#### I worked in the film industry as a VFX supervisor.
