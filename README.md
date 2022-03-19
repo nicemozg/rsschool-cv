@@ -1,2 +1,2 @@
 # rsschool-cv
-https://nicemozg.github.io/rsschool-cv/cv
+https://nicemozg.github.io/rsschool-cv/
