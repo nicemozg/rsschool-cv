@@ -15,3 +15,11 @@ let getData = function (array) {
 getData(arr);
 ```
 #### I worked in the film industry as a VFX supervisor.
+Almaty Multidisciplinary Technical College of Economics
+Degree: Accounting and auditing
+Courses: Skill Factory (online) - Python (basic)
+Courses: Decode (Almaty offline) - Python (basic)
+Courses: Freecodecamp (online) - HTML/CSS/JS (basic)
+Courses: Codewars (online) - JS (basic)
+
+### English level B1
