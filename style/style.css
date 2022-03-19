@@ -1,0 +1,221 @@
+section {
+    font-family: "Montserrat", sans-serif;
+    width: 1280px;
+    height: 1399px;
+    background-color: rgb(250, 246, 240);
+  }
+  
+  .sectionLeft {
+    width: 370px;
+    height: 1319px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40px;
+    background-color: #1e2939;
+  
+  }
+  
+  .sectionLeft__img {
+    position: relative;
+    margin-top: 40px;
+  }
+
+  .sectionLeft__img_photo {
+      width: 370px;
+      height: 420px;
+  }
+  
+  .sectionLeft__info {
+    margin-left: 40px;
+  }
+  
+  .sectionLeft__info_contacts {
+    color: #FFFFFF;
+    width: 104px;
+    height: 27px;
+    font-weight: 700;
+    font-size: 22px;
+    font-weight: 
+    700, Bold;
+  }
+  
+  
+  .sectionLeft__info_ce {
+      color: #FFFFFF;
+      margin-top: 40px;
+      font-weight: 700;
+  
+  }
+  
+  .sectionLeft__info_number {
+      color: #FFFFFF;
+      opacity: 50%;
+      margin-top: -70px;
+      margin-left: 40px;
+  }
+  
+  .sectionLeft__info_techskills {
+      color: #FFFFFF;
+      margin-top: 80px;
+  }
+  
+  .sectionLeft__info_tech {
+      color: #FFFFFF;
+      opacity: 50%;
+      margin-left: -20px;
+      
+  }
+  
+  .ul1 {
+      /* list-style-type: none; */
+      line-height: 25px;
+
+  }
+
+.ul1 li::before {
+    color: orange;  
+}
+
+.ul2 li::before {
+    color: orange;  
+}
+
+ul {
+    list-style: none;
+  }
+  
+  ul li::before {
+    content: "\2022";
+    font-weight: bold; 
+    display: inline-block; 
+    width: 1em; 
+    margin-left: -1em;
+  }
+
+  
+  .sectionLeft__info_softskills {
+      color: #FFFFFF;
+      margin-top: 80px;
+  }
+  
+  .sectionLeft__info_soft {
+      color: #FFFFFF;
+      opacity: 50%;
+      margin-left: -20px;
+  }
+  
+  .ul2 {
+      line-height: 25px; 
+  }
+  
+  .sectionRight {
+      width: 830px;
+    height: 1319px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 410px;
+    background-color: #FFFFFF;
+  }
+  
+  .sectionRight__info {
+      margin-left: 125px;
+      margin-top: 70px;
+  }
+  
+  .sectionRight__info_front {
+      font-weight: 700;
+  }
+  
+  .sectionRight__info_anton {
+      font-size: 30px;
+  }
+  
+  .sectionRight__info_lorem {
+      opacity: 50%;
+      width: 400px;
+  }
+  
+  .sectionRight__info_projects {
+      margin-top: 60px;
+  }
+  
+  .https_123 {
+      font-weight: 700;
+  }
+  
+  .https {
+      opacity: 50%;
+  }
+  
+  .square {
+      font-weight: 700;
+  }
+  
+  .Rsectionight__info_h2work {
+      margin-top: 70px;
+      font-weight: 700;
+      font-size: 22px;
+  }
+  
+  .sectionRight__info_h3first {
+      margin-top: 15px;
+      font-size: 16px;
+  }
+  
+  .orange {
+      color: rgb(235, 141, 40);
+  }
+  
+  .sectionRight__info_period {
+      opacity: 25%;
+  }
+  
+  .sectionRight__info_ulfirst {
+      margin-top: 15px;
+      width: 550px;
+      opacity: 50%;
+  }
+  
+  .sectionRight__info_li {
+      margin-left: -25px;
+      line-height: 1.5;
+
+  }
+  
+  .sectionRight__info_h3second {
+      margin-top: 15px;
+  }
+  
+  .sectionRight__info_ulsecond {
+      width: 550px;
+      opacity: 50%;
+  }
+  
+  .sectionRight__info_ulthird {
+      opacity: 50%;
+  }
+  
+  .sectionRight__info_h3national {
+      font-size: 14px;
+  }
+
+  .website {
+      width: 1280px;
+      margin-left: 250px;
+      position: absolute;
+      top: 48px;
+      left: 1200px
+  }
+
+  h5 {
+      margin-top: 0;
+      font-size: 20px;
+  margin-left: 180px;
+  }
+
+  .moving {
+    margin-left: 270px;
+  }
+
+
+
